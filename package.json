@@ -17,7 +17,7 @@
     "mv": "^2.1.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "rimraf": "^2.6.3",
     "styled-components": "^4.1.3"
   },
